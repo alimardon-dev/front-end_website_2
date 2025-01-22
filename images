@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\alima\\OneDrive\\Desktop\\Project 2\\images\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cart.png","cart.png",0,1171,"1.1 kB",1737480834,"1/22/25, 2:33:54 AM");</script>
+<script>addRow("grocery-image.png","grocery-image.png",0,936903,"915 kB",1737480835,"1/22/25, 2:33:55 AM");</script>
+<script>addRow("Image.png","Image.png",0,1447494,"1.4 MB",1737480835,"1/22/25, 2:33:55 AM");</script>
+<script>addRow("logo.png","logo.png",0,7559,"7.4 kB",1737480835,"1/22/25, 2:33:55 AM");</script>
